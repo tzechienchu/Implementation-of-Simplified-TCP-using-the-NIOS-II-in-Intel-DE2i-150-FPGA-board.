@@ -1,0 +1,305 @@
+EDA Netlist Writer report for simplified_tcp
+Fri Dec 02 15:18:10 2016
+Quartus II 64-Bit Version 15.0.0 Build 145 04/22/2015 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. EDA Netlist Writer Summary
+  3. EDA Netlist Writer Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2015 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus II License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++---------------------------------------------------------------+
+; EDA Netlist Writer Summary                                    ;
++---------------------------+-----------------------------------+
+; EDA Netlist Writer Status ; Failed - Fri Dec 02 15:18:10 2016 ;
+; Revision Name             ; simplified_tcp                    ;
+; Top-level Entity Name     ; simplified_tcp                    ;
+; Family                    ; Cyclone IV GX                     ;
++---------------------------+-----------------------------------+
+
+
++-----------------------------+
+; EDA Netlist Writer Messages ;
++-----------------------------+
+Info: *******************************************************************
+Info: Running Quartus II 64-Bit EDA Netlist Writer
+    Info: Version 15.0.0 Build 145 04/22/2015 SJ Web Edition
+    Info: Processing started: Fri Dec 02 15:18:09 2016
+Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off simplified_tcp -c simplified_tcp
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_13.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_tx_if.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_eth_tse_mac.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gmii_io.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo_10_100_1000.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_retransmit_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clock_crosser.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_rx.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_opt_1246.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_host_control.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32ctl8.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altshifttaps.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_8x32.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/nios_system_nios2_cpu.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_rx_if.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clk_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_control.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_34.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_stat_extract.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328generator.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_magic_detection.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_stat_extract.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_counter_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_16x32.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_bin_cnt.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gray_cnt.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_min_ff.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328checker.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_tx.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_min_ff.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_1geth.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_counter_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32galois8.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_clk_gen.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_mdio.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_register_map.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altsyncram_dpm_fifo.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_lfsr_10.v" is an OpenCore Plus time-limited file
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_13.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_tx_if.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_eth_tse_mac.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gmii_io.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo_10_100_1000.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_retransmit_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clock_crosser.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_rx.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_opt_1246.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_host_control.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32ctl8.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altshifttaps.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_8x32.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/nios_system_nios2_cpu.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_rx_if.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clk_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_control.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_34.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_stat_extract.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328generator.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_magic_detection.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_stat_extract.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_counter_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_16x32.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_bin_cnt.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gray_cnt.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_min_ff.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328checker.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_tx.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_min_ff.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_1geth.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_counter_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32galois8.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_clk_gen.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_mdio.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_register_map.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altsyncram_dpm_fifo.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_lfsr_10.v" is not available
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_13.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_tx_if.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_eth_tse_mac.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gmii_io.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo_10_100_1000.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_retransmit_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clock_crosser.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_rx.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_opt_1246.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_host_control.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32ctl8.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altshifttaps.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_8x32.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/nios_system_nios2_cpu.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_rx_if.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clk_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_control.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_34.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_stat_extract.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328generator.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_magic_detection.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_stat_extract.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_counter_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_16x32.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_bin_cnt.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gray_cnt.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_min_ff.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328checker.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_tx.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_min_ff.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_1geth.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_counter_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32galois8.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_clk_gen.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_mdio.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_register_map.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altsyncram_dpm_fifo.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_lfsr_10.v" is an OpenCore Plus time-limited file
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_13.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_tx_if.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_eth_tse_mac.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gmii_io.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo_10_100_1000.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_retransmit_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clock_crosser.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_rx.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_opt_1246.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_host_control.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32ctl8.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altshifttaps.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_8x32.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/nios_system_nios2_cpu.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_rx_if.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clk_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_control.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_34.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_stat_extract.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328generator.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_magic_detection.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_stat_extract.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_counter_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_16x32.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_bin_cnt.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gray_cnt.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_min_ff.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328checker.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_tx.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_min_ff.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_1geth.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_counter_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32galois8.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_clk_gen.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_mdio.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_register_map.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altsyncram_dpm_fifo.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_lfsr_10.v" is not available
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_13.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_tx_if.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_eth_tse_mac.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gmii_io.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo_10_100_1000.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_retransmit_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clock_crosser.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_rx.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_opt_1246.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_host_control.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32ctl8.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altshifttaps.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_8x32.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/nios_system_nios2_cpu.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_rx_if.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clk_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_control.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_34.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_stat_extract.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328generator.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_magic_detection.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_stat_extract.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_counter_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_16x32.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_bin_cnt.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gray_cnt.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_min_ff.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328checker.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_tx.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_min_ff.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_1geth.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_counter_cntl.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32galois8.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_clk_gen.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_mdio.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_register_map.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altsyncram_dpm_fifo.v" is an OpenCore Plus time-limited file
+Error (204012): Can't generate netlist output files because the file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_lfsr_10.v" is an OpenCore Plus time-limited file
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_13.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_tx_if.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_eth_tse_mac.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gmii_io.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo_10_100_1000.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_retransmit_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clock_crosser.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_rx.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_opt_1246.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_host_control.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32ctl8.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altshifttaps.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_8x32.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/nios_system_nios2_cpu.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mii_rx_if.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_clk_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_control.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_a_fifo_34.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_stat_extract.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328generator.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_magic_detection.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_stat_extract.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_counter_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_dpram_16x32.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_w_fifo.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_bin_cnt.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_gray_cnt.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_rx_min_ff.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc328checker.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mac_tx.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_min_ff.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_1geth.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_tx_counter_cntl.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_crc32galois8.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_mdio_clk_gen.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_top_mdio.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_register_map.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_altsyncram_dpm_fifo.v" is not available
+Error (204009): Can't generate netlist output files because the license for encrypted file "c:/users/as375/desktop/simplified_tcp/db/ip/nios_system/submodules/altera_tse_lfsr_10.v" is not available
+Error: Quartus II 64-Bit EDA Netlist Writer was unsuccessful. 246 errors, 0 warnings
+    Error: Peak virtual memory: 737 megabytes
+    Error: Processing ended: Fri Dec 02 15:18:10 2016
+    Error: Elapsed time: 00:00:01
+    Error: Total CPU time (on all processors): 00:00:02
+
+
